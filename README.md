@@ -1,2 +1,70 @@
 # 2021-PostgreSQL-DataAnalytics-Cleaning-Manipulation
-PostgreSQL Cleaning Manipulation
+
+
+<h1 align="center">
+  <br>
+  <img src="static/images/gg1.jpg"  width="1100">
+  <br>
+  Development Technologies 
+  <br>
+</h1>
+
+
+
+<p align="center">
+  <img width="75px" hspace="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"  />
+  <img width="75px" hspace="20" src="https://cdn-icons-png.flaticon.com/512/2369/2369466.png"  />
+  <img width="75px" hspace="20" src="https://jupyter.org/assets/homepage/main-logo.svg"  />
+  <img width="75px" hspace="20" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
+  
+  
+</p>
+
+<p align="center">
+  <a href="#Purpose">Purpose</a> •
+  <a href="#how-to-use">How It Work</a> •
+  <a href="#ERD">Entity Relationship Diagram(ERD)</a> •
+  <a href="#Credit">Credit</a> •
+
+
+</p>
+
+## Purpose
+
+This project aimed to achieve higher proficiency with SQL and the ability to clean and manipulate data via SQL itself.
+
+
+## How It Work
+
+* All the setups are via Jupyter Notebook itself, and nothing is used locally; follow along with the setup section on the notebook.
+
+> **Note**
+> Just make sure to import all the CSV files along side the notebook .
+
+
+
+
+## ERD
+<img src="static/images/gg2.jpg"  width="1100">
+<img src="static/images/gg3.jpg"  width="1100">
+
+
+
+
+## Credit
+ Derek Steer : (https://www.linkedin.com/in/dereksteer/)
+<p></p>
+Udacity : (https://learn.udacity.com/courses/ud198)
+<p></p>
+
+
+
+
+
+
+---
+
+> Website(https://) -
+> GitHub (https://github.com/Marshi00) - 
+> Linkedin (https:)
+

@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <img src="static/images/gg1.jpg"  width="1100">
+  <img src="gg1.jpg"  width="1100">
   <br>
   Development Technologies 
   <br>
@@ -45,9 +45,7 @@ This project aimed to achieve higher proficiency with SQL and the ability to cle
 
 
 ## ERD
-<img src="static/images/gg2.jpg"  width="1100">
-<img src="static/images/gg3.jpg"  width="1100">
-
+<img src="gg2.jpg"  width="1100">
 
 
 

@@ -47,7 +47,7 @@ This project aimed to achieve higher proficiency with SQL and the ability to cle
 ## ERD
 <img src="Files/gg2.jpg"  width="1100">
 
-
+ 
 
 ## Credit
  Derek Steer : (https://www.linkedin.com/in/dereksteer/)

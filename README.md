@@ -62,7 +62,7 @@ Udacity : (https://learn.udacity.com/courses/ud198)
 
 ---
 
-> Website(https://) -
+> Website(https://marshi00.azurewebsites.net) -
 > GitHub (https://github.com/Marshi00) - 
-> Linkedin (https:)
+> Linkedin (https://www.linkedin.com/in/m-arshian-7516901a2)
 
